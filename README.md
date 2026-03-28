@@ -50,8 +50,8 @@ Fueled by ☕ coffee, sharpened by 🔥 late-night debugging, and guided by
 
 ## 🌍 Connect With Me
 	•	🐙 GitHub → github.com/musaharifran
-	•	💼 LinkedIn → linkedin.com/in/USERNAME
-	•	📧 Email → secan.akbulut@example.com
+	•	💼 LinkedIn → SOON
+	•	📧 Email → secan.akbulut@gmail.com
 
 🏆 Final Transmission
 ⚡ Crafted with Developer Akademie knowledge
